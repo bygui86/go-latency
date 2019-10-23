@@ -1,15 +1,16 @@
 
 # go-latency
 
-## Build
+## Run
+### intrusive sample
 ```
 export GO111MODULE=on
-go build
+go run intrusive-sample.go
 ```
-
-## Run
+### decorator sample
 ```
-./go-latency
+export GO111MODULE=on
+go run decorator-sample.go
 ```
 
 ---
