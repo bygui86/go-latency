@@ -1,3 +1,3 @@
-module github.com/bygui86/go-latency
+module github.com/bygui86/go-latency-calculation
 
-go 1.13
+go 1.14
